@@ -1,0 +1,10 @@
+﻿2022-01-29 12:09:26.9598 DEBUG Debug sucessfull
+2022-01-29 12:09:26.9787 INFO Sucessfully swapped numbers10 0 5
+2022-01-29 12:10:43.7591 DEBUG Debug Unsucessfull due to wrong input
+2022-01-29 12:10:43.7760 ERROR Providing wrong inputs
+2022-01-29 12:10:43.7771 WARN Inputs Shouldnt be null
+2022-01-29 12:14:27.8288 DEBUG Debug sucessfull
+2022-01-29 12:14:27.8457 INFO Sucessfully swapped numbers : 9 5 7
+2022-01-29 12:28:42.8998 INFO Before numbers swapped : 4 5 7
+2022-01-29 12:28:42.9198 DEBUG Debug sucessfull
+2022-01-29 12:28:42.9198 INFO Sucessfully swapped numbers : 7 4 5

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NlogDemp", "NlogDemp\NlogDemp.csproj", "{44F55AC3-EA63-4ED0-BE51-12CC90657861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44F55AC3-EA63-4ED0-BE51-12CC90657861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F55AC3-EA63-4ED0-BE51-12CC90657861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F55AC3-EA63-4ED0-BE51-12CC90657861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F55AC3-EA63-4ED0-BE51-12CC90657861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780668C2-6177-429F-8471-8C6DD00AD69D}
+	EndGlobalSection
+EndGlobal
